@@ -17,7 +17,3 @@
 ### 📊 Statistics Github
 
 ![Ваша статистика](https://github-readme-stats.vercel.app/api?username=Pan-Artur&show_icons=true&theme=radical)
-
-### 🔥 Popular repositories
-
-![Top Repos](https://github-readme-stats.vercel.app/api?username=Pan-Artur&repo=reponame&theme=dark)
