@@ -8,7 +8,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 
 - 🔭 Currently working on: CineMate
 - 🌱 Currently studying: React
-- 🎯 Planning to Learn: cyber-security tools and increased protection of my applications
+- 🎯 Planning to Learn: OWASP and Electron
 - 👯 Looking for collaboration on: web-sites with any topic
 - 💬 Ask me about: programming, music and history
 - 📫 How to contact: tg - @ArchiPank, e-mail - pankovets.artur1@gmail.com.
