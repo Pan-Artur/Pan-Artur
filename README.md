@@ -30,3 +30,4 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 ### 📊 Statistics Github
 
 ![Ваша статистика](https://github-readme-stats.vercel.app/api?username=Pan-Artur&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pan-Artur&layout=compact&theme=radical)
