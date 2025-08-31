@@ -1,7 +1,8 @@
 # 👋 Greetings to all. My name is Pankovets Artur!
 
 I'm a Full-Stack Developer and a Linux Enthusiast.
-I love coding frontend piece in web-sites and don't mind creating a database for the backend. 🚀
+
+I love coding frontend piece in web-sites and don't mind creating a database for the backend.
 
 ### 🚀 About me
 
