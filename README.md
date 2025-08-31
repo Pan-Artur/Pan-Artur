@@ -6,7 +6,7 @@
 - 🌱 Currently studying: React
 - 👯 Looking for collaboration on: sites with big functionality
 - 💬 Ask me about: Programming, music and history
-- 📫 How to contact: tg - @ArchiPank, e-mail: pankovets.artur1@gmail.com.
+- 📫 How to contact: tg - @ArchiPank, e-mail - pankovets.artur1@gmail.com.
 - ⚡ Fun fact: I use Arch Linux btw.
 
 ### 🛠 Technologies and Instruments
@@ -20,4 +20,4 @@
 
 ### 🔥 Popular repositories
 
-![Top Repos](https://github-readme-stats.vercel.app/api/pin/?username=Pan-Artur&repo=reponame&theme=dark)
+![Top Repos](https://github-readme-stats.vercel.app/api?username=Pan-Artur&repo=reponame&theme=dark)
