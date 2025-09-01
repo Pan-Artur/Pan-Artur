@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZsejFsNWVmZWVrdGVqMTVycHgyYzNudzBnNjltNHlsdnZrZ3hyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/euIBG1u6KdxAc/giphy.gif" width="400" height="300" alt="Опис гіфки"/>
-<div/>
-
----
-
 # 👋 Greetings to all. My name is Pankovets Artur!
 
 I'm a Full-Stack Developer and Linux Enthusiast.
