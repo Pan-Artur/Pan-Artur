@@ -6,7 +6,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 
 ### 🚀 About me
 
-- 🔭 Currently working on: CineMate
+- 🔭 Currently working on: CineMate and RoomCraft
 - 🌱 Currently studying: React
 - 🎯 Planning to Learn: OWASP and Electron
 - 👯 Looking for collaboration on: web-sites with any topic
