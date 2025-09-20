@@ -20,13 +20,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 
 ### 🛠 Tools and Instruments
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48"/> <svg width="48" height="48" viewBox="0 0 256 256" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid">
-  <!-- Основа іконки (залишається як у звичайній версії) -->
-  <path fill="#007ACC" d="M181.534 254.252c-4.523 4.521-11.906 4.521-16.431 0L74.479 165.56l-43.951 43.96c-4.523 4.52-11.906 4.52-16.43 0L4.523 200.05c-4.524-4.523-4.524-11.906 0-16.43l43.95-43.951-43.95-43.95c-4.524-4.524-4.524-11.907 0-16.431L14.098 46.48c4.524-4.523 11.907-4.523 16.43 0l43.951 43.95 90.692-90.691c4.525-4.524 11.908-4.524 16.431 0l13.515 13.514c4.524 4.524 4.524 11.907 0 16.431l-90.692 90.692 90.692 90.691c4.524 4.524 4.524 11.907 0 16.431l-13.515 13.514z"/>
-  
-  <!-- Зелені елементи (Insiders версія) -->
-  <path fill="#3DA742" d="M244.878 133.435l-38.645-38.645c-5.471-5.471-14.341-5.471-19.812 0-5.471 5.471-5.471 14.341 0 19.812l28.739 28.739-28.739 28.739c-5.471 5.471-5.471 14.341 0 19.812 5.471 5.471 14.341 5.471 19.812 0l38.645-38.645c5.471-5.471 5.471-14.341 0-19.812z"/>
-</svg> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48"/> <img src="https://raw.githubusercontent.com/microsoft/vscode-icons/insiders/icons/insiders.svg" alt="VS Code Insiders" width="48" height="48"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
 
 ### 📊 Statistics Github
 
