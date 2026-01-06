@@ -21,8 +21,3 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 ### 🛠 Tools and Instruments
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
-
-### 📊 Statistics Github
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Pan-Artur&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pan-Artur&layout=compact&theme=radical)
