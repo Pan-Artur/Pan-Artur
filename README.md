@@ -7,7 +7,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 ### 🚀 About me
 
 - 🔭 Currently working on: Practice
-- 🌱 Currently studying: Java
+- 🌱 Currently studying: Java and Cyber-Security
 - 🎯 Planning to Learn: OWASP and Python
 - 👯 Looking for collaboration on: web-sites with any topic
 - 💬 Ask me about: programming, music and history
