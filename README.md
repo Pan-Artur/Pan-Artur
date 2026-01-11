@@ -11,7 +11,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 - 🎯 Planning to Learn: OWASP and Python
 - 👯 Looking for collaboration on: web-sites with any topic
 - 💬 Ask me about: programming, music and history
-- 📫 How to contact: tg - @ArchiPank, e-mail - pankovets.artur1@gmail.com.
+- 📫 How to contact: [telegram](https://t.me/ArchiPank), [e-mail](mailto:pankovets.artur1@gmail.com).
 - ⚡ Fun fact: I use Arch Linux btw.
 
 ### 🛠 Languages and Technologies
@@ -20,4 +20,4 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 
 ### 🛠 Tools
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="48" height="48"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" width="48" height="48"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48"/>
