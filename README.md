@@ -14,7 +14,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 - 📫 How to contact: [telegram](https://t.me/ArchiPank), [e-mail](mailto:pankovets.artur1@gmail.com).
 - ⚡ Fun fact: I use Arch Linux btw.
 
-### 🛠 Languages and Technologies
+<!-- ### 🛠 Languages and Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript"/> 
@@ -37,4 +37,4 @@ I love coding frontend piece in web-sites and don't mind creating a database for
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/archlinux/archlinux-original.svg" width="48" height="48" alt="Arch Linux"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code"/>
-</p>
+</p> -->
