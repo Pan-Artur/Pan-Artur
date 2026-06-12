@@ -11,7 +11,7 @@ I love coding frontend piece in web-sites and don't mind creating a database for
 - 🎯 Planning to Learn: OWASP and Python
 - 🔍 Looking for collaboration on: projects with any topic
 - 💬 Ask me about: programming, music and history
-- 📫 How to contact: [telegram](https://t.me/ArchiPank), [e-mail](mailto:pankovets.artur1@gmail.com).
+- 📫 How to contact: [telegram](https://t.me/paarvex), [e-mail](mailto:pankovets.artur1@gmail.com).
 - ⚡ Fun fact: I use Arch Linux btw.
 
 <!-- ### 🛠 Languages and Technologies
